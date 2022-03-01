@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DataGeneratorCLI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DataGeneratorCLI_jar</output-path>
+    <root id="archive" name="DataGeneratorCLI.jar">
+      <element id="module-output" name="DataGeneratorCLI" />
+    </root>
+  </artifact>
+</component>
